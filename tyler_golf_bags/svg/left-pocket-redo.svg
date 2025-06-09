@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg width="58" height="228" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" version="1.0">
+ <metadata>Created by potrace 1.10, written by Peter Selinger 2001-2011</metadata>
+ <g class="layer">
+  <title>bg</title>
+  <ellipse class="left-fill" cx="29.29" cy="112.82" fill="#000000" id="svg_3" rx="25.07" ry="111.95" stroke="#000000" stroke-opacity="0" stroke-width="0" transform="matrix(1 0 0 1 0 0)"/>
+  <rect class="left-fill" fill="#000000" height="53.06" id="svg_4" stroke="#000000" stroke-opacity="0" stroke-width="0" width="10.79" x="4.51" y="14.86"/>
+  <rect class="left-fill" fill="#000000" height="65.89" id="svg_5" stroke="#000000" stroke-opacity="0" stroke-width="0" width="10.79" x="42.14" y="6.69"/>
+  <rect class="left-fill" fill="#000000" height="87.46" id="svg_6" stroke="#000000" stroke-opacity="0" stroke-width="0" width="38.78" x="16.49" y="137.6"/>
+  <rect class="left-fill" fill="#000000" height="93" id="svg_7" stroke="#000000" stroke-opacity="0" stroke-width="0" width="38.78" x="3.95" y="118.65"/>
+  <rect class="left-fill" fill="#000000" height="32.94" id="svg_8" stroke="#000000" stroke-opacity="0" stroke-width="0" width="13.99" x="9.49" y="186.14"/>
+  <rect class="left-fill" fill="#000000" height="24.49" id="svg_9" stroke="#000000" stroke-opacity="0" stroke-width="0" width="14.58" x="7.02" y="11.21"/>
+  <rect class="left-fill" fill="#000000" height="23.06" id="svg_10" stroke="#000000" stroke-opacity="0" stroke-width="0" transform="rotate(91.0155 38.0639 9.90521)" width="12.8" x="31.66" y="-1.63"/>
+  <rect class="left-fill" fill="#000000" height="22.73" id="svg_11" stroke="#000000" stroke-opacity="0" stroke-width="0" transform="rotate(91.0155 22.9027 9.46376)" width="13.18" x="16.31" y="-1.9"/>
+  <rect class="left-fill" fill="#000000" height="13.7" id="svg_12" stroke="#000000" stroke-opacity="0" stroke-width="0" transform="rotate(91.0155 39.2164 7.95004)" width="11.68" x="33.37" y="1.1"/>
+  <rect class="left-fill" fill="#000000" height="13.7" id="svg_13" stroke="#000000" stroke-opacity="0" stroke-width="0" transform="rotate(91.0155 14.8926 11.9417)" width="11.68" x="9.05" y="5.09"/>
+  <ellipse class="left-fill" cx="11.22" cy="102.61" fill="#000000" id="svg_15" rx="10.79" ry="5.54" stroke="#000000" stroke-opacity="0" stroke-width="0"/>
+  <ellipse class="left-fill" cx="47.25" cy="112.96" fill="#000000" id="svg_16" rx="9.33" ry="3.64" stroke="#000000" stroke-opacity="0" stroke-width="0"/>
+ </g>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g class="left-outline" fill="#000000" id="svg_1" transform="translate(0 228) matrix(0.1 0 0 -0.1 0 0)">
+   <path d="m66,2192l-37,-89l1,-406c0,-357 -1,-408 -15,-413c-19,-8 -20,-58 0,-74c13,-11 15,-79 15,-527c-1,-586 -8,-536 90,-626l51,-47l197,0l197,0l-1,545c-1,308 2,548 7,551c15,9 10,76 -6,94c-14,15 -15,76 -7,521l8,504l-30,27c-37,33 -69,39 -41,8c10,-11 13,-20 7,-20c-7,0 -17,9 -24,20c-12,19 -24,20 -194,20l-181,0l-37,-88zm164,56c6,-7 28,-36 49,-65l38,-52l6,-158c4,-87 7,-299 7,-470l0,-313l-40,0l-40,0l0,419c0,517 -1,532 -49,578c-54,52 -83,64 -39,15c67,-74 63,-43 63,-552c0,-256 3,-470 7,-476c6,-9 106,-9 116,0c1,2 3,205 3,452c1,308 -2,462 -10,490c-6,23 -29,62 -51,87c-22,25 -40,48 -40,51c0,3 44,4 98,3c83,-2 102,-5 130,-25c17,-13 37,-33 43,-44c8,-14 9,-165 3,-514c-6,-424 -9,-494 -21,-490c-8,4 -25,6 -38,6l-24,0l-3,463c-3,456 -3,463 -25,502c-30,54 -60,91 -68,83c-4,-3 5,-25 20,-48c51,-81 50,-67 50,-560l0,-465l71,3c57,3 72,1 77,-12c3,-8 2,-18 -4,-22c-6,-3 -78,-5 -162,-5c-84,1 -157,-2 -164,-6c-8,-6 -9,-65 -3,-233c5,-124 9,-363 10,-532c0,-199 4,-308 10,-308c6,0 10,30 11,68c2,203 -3,587 -11,769c-4,114 -7,209 -5,211c1,2 66,4 143,5l141,2l-5,-525c-3,-289 -7,-531 -10,-538c-3,-10 -37,-13 -149,-11c-80,1 -147,4 -149,8c-2,3 -7,224 -10,491c-3,267 -9,509 -12,538c-6,50 -9,54 -63,92c-31,22 -67,49 -79,60c-13,11 -28,20 -33,20c-5,0 -9,5 -9,10c0,22 45,8 108,-32c36,-24 68,-43 71,-43c3,0 6,205 7,454c2,499 2,506 -57,555c-34,29 -35,33 -12,58c19,21 86,25 103,6zm-88,-98c20,-31 27,-59 32,-118c8,-87 4,-822 -4,-822c-3,0 -25,14 -49,30c-24,17 -48,30 -53,30c-4,0 -8,186 -8,414c0,390 1,417 20,460c10,25 23,46 27,46c5,0 20,-18 35,-40zm39,-1269c0,-113 4,-343 8,-511c5,-168 8,-306 6,-308c-1,-1 -32,28 -68,65l-67,68l0,498l0,498l60,-52l60,-52l1,-206z" fill="#ffffff" id="svg_2"/>
+  </g>
+ </g>
+</svg>
